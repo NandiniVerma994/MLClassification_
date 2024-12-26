@@ -1,2 +1,2 @@
-### Potato Disease Classification
+### Celebrity Face Recognition
 
